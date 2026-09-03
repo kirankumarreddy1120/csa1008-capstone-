@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .custom-leaflet-marker {
+    background: transparent;
+    border: none;
+  }
+}
